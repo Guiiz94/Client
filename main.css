@@ -1,0 +1,25 @@
+.formulaire{
+    background-color: #fafafa;
+    padding-top: 1rem;
+    padding-left: 2rem;
+    text-align: center;
+}
+
+.backgroundimage{
+    background-image: url(photos/logo.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding-left: 25rem;
+    padding-right: 25rem;
+}
+
+footer {
+    bottom: 0;
+    background-color: #313131;
+    width: 100%;
+    background-size: auto;
+    color: #fafafa;
+    font-size: 80%;
+    text-align: center;
+}
